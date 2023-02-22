@@ -1,4 +1,4 @@
-#High Noon Hero
+# High Noon Hero
 In this easy game, test your reflexes to see if you can become the fastest shooter in the cosmos.
 
 ## Description
