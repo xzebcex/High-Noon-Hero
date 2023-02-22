@@ -5,10 +5,10 @@ In this easy game, test your reflexes to see if you can become the fastest shoot
 The High Noon Hero is a straightforward command-line game that puts your reflexes to the test. The game shows the phrase "SHOOT," and the player must hit Enter within a set amount of time to win. The game records the time it takes the player to shoot and shows the results. The player can exit the game by hitting "Q" or restart it by pressing Enter.
 
 ## Table of Contents
-•	Installation
-•	How to Play
-•	Contribution
-•	Conclusion
+•	Installation.
+•	How to Play.
+•	Contribution.
+•	Conclusion.
 
 ## Installation
 Python 3 must be installed on your computer in order for the game to operate. If you don't already have it, you can get it from the Python website.
